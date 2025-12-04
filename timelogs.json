@@ -1,0 +1,19 @@
+[ {
+  "memberId" : 1,
+  "durationSeconds" : 5
+}, {
+  "memberId" : 2,
+  "durationSeconds" : 8
+}, {
+  "memberId" : 2,
+  "durationSeconds" : 5
+}, {
+  "memberId" : 5,
+  "durationSeconds" : 4
+}, {
+  "memberId" : 1,
+  "durationSeconds" : 6
+}, {
+  "memberId" : 5,
+  "durationSeconds" : 12
+} ]
